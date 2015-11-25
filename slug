@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#
+# Slugifies all directories and files on the specified directory.
 
 import os
 from slugify import slugify
