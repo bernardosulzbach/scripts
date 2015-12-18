@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-tar --absolute-names -zcf\
-    "/home/mafagafogigante/Backup/$(date +%Y-%m-%d-%H)-documents.tar.gz"\
-    "/home/mafagafogigante/Dropbox/Documents/"\
-    "/home/mafagafogigante/Dropbox/Spreadsheets/"
