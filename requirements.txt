@@ -1,1 +1,2 @@
+requests==2.9.1
 unicode-slugify==0.1.3

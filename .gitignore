@@ -3,3 +3,6 @@
 
 # Python-specific
 __pycache__/
+
+# Project-specific
+tests/
