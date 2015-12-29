@@ -9,7 +9,7 @@ All the "final" scripts are executable.
 The extension is `.py` to help identify the commands and prevent collisions.
 
 ## License
-Everything in this repository is licensed under BSD 2-Clause. See `LICENSE`.
+Everything in this repository is licensed under BSD 2-Clause. See `LICENSE.md`.
 
 ## How to use
 1. Clone the repository or download it and unpack.
