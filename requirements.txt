@@ -1,1 +1,1 @@
-slugify==0.0.1
+unicode-slugify==0.1.3
