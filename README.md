@@ -13,4 +13,5 @@ Everything in this repository is licensed under BSD 2-Clause. See `LICENSE`.
 
 ## How to use
 1. Clone the repository or download it and unpack.
-2. Add it to your PATH environment variable.
+2. Run `pip3 install -r requirements.txt`
+3. Add it to your PATH environment variable.
