@@ -61,7 +61,7 @@ def _equals_ignore_case(a, b):
 
 
 def check_authorization_code(root, code):
-    valid_code = _equals_ignore_case(root, code)
+    valid_code = _equals_ignore_case(get_user_friendly_code(root), code)
     if not valid_code:
         print("The provided authorization code is invalid (should be {})".format(get_user_friendly_code(root)))
     return valid_code
